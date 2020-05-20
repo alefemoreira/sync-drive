@@ -36,7 +36,7 @@
 
 ## Project
 
-A linux synchronizer for Google Drive ![Google Drive logo](/.github/google-drive.png)
+A linux synchronizer for Google Drive ![Google Drive logo](/.github/google-drive-black.png)
 
 ## License
 
