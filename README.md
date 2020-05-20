@@ -29,3 +29,15 @@
   <a href="#computer-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+
+## Technologies
+
+* [Electron](https://www.electronjs.org/)
+
+## Project
+
+A linux synchronizer for Google Drive ![Google Drive logo](/.github/google-drive.png)
+
+## License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
