@@ -6,7 +6,7 @@
 
 <!--<h2 align="center">API</h2>-->
 
-<p align="center">Remember of things and for who you lend with Lend-Remember!!</p>
+<p align="center">A linux synchronizer for Google Drive</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefemoreira/sync-drive?color=blue">
