@@ -4,7 +4,7 @@
   <img alt="Sync Drive" title="sync-drive" src="./assets/sync-drive-black.png" width="250px"/>
 </h1>
 
-<h2 align="center">API</h2>
+<!--<h2 align="center">API</h2>-->
 
 <p align="center">Remember of things and for who you lend with Lend-Remember!!</p>
 
