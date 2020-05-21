@@ -1,7 +1,7 @@
 <br/>
 
 <h1 align="center">
-  :arrows_counterclockwise: Sync Drive :arrows_counterclockwise:
+  <img alt="Sync Drive" title="sync-drive" src="./assets/sync-drive-black.png" width="250px"/>
 </h1>
 
 <h2 align="center">API</h2>
