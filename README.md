@@ -38,6 +38,12 @@
 
 A linux synchronizer for Google Drive ![Google Drive logo](/.github/google-drive-black.png)
 
+## Layout
+
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/3drFiNIOGx61Mt2s9qjX7l/Sync-Drive?node-id=2%3A0). Lembrando que você irá precisar ter uma conta no [Figma](https://www.figma.com/).
+
+
+
 ## License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
