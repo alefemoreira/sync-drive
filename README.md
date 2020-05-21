@@ -21,7 +21,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/alefemoreira/sync-drive?color=blue">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
+  <img alt="License" src="https://img.shields.io/badge/license-GPL3.0-brightgreen?color=blue">
 </p>
 
 <p align="center">
@@ -46,4 +46,4 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 ## License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença GPL 3.0. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
