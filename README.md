@@ -30,6 +30,10 @@
   <a href="#memo-license">License</a>
 </p>
 
+<p>
+   <img alt="Frontend" src="./.github/sync-drive.png" width="100%"/>
+</p>
+
 ## Technologies
 
 * [Electron](https://www.electronjs.org/)
