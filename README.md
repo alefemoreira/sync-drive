@@ -25,9 +25,10 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>
+  <a href="#license">License</a>
 </p>
 
 <p>
@@ -36,7 +37,9 @@
 
 ## Technologies
 
-* [Electron](https://www.electronjs.org/)
+- [Electron](https://www.electronjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
 
 ## Project
 
