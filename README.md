@@ -1,12 +1,12 @@
 <br/>
 
 <h1 align="center">
-  :arrows_counterclockwise: Sync Drive :arrows_counterclockwise:
+  <img alt="Sync Drive" title="sync-drive" src="./assets/sync-drive-black.png" width="250px"/>
 </h1>
 
-<h2 align="center">API</h2>
+<!--<h2 align="center">API</h2>-->
 
-<p align="center">Remember of things and for who you lend with Lend-Remember!!</p>
+<p align="center">A linux synchronizer for Google Drive</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alefemoreira/sync-drive?color=blue">
@@ -21,7 +21,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/alefemoreira/sync-drive?color=blue">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
+  <img alt="License" src="https://img.shields.io/badge/license-GPL3.0-brightgreen?color=blue">
 </p>
 
 <p align="center">
@@ -46,4 +46,4 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 ## License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença GPL 3.0. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
