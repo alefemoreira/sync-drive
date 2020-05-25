@@ -1,7 +1,7 @@
 <br/>
 
 <h1 align="center">
-  <img alt="Sync Drive" title="sync-drive" src="./assets/sync-drive-black.png" width="250px"/>
+  <img alt="Sync Drive" title="sync-drive" src="./.github/logo-readme.png" width="250px"/>
 </h1>
 
 <!--<h2 align="center">API</h2>-->
