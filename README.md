@@ -44,7 +44,7 @@
 
 ## Project
 
-A linux synchronizer for Google Drive ![Google Drive logo](/.github/google-drive-black.png)
+A linux synchronizer for Google Drive
 
 ## Layout
 
