@@ -1,7 +1,7 @@
 <br/>
 
 <h1 align="center">
-  <img alt="Sync Drive" title="sync-drive" src="./.github/logo-readme.png" width="250px"/>
+  <img alt="Sync Drive" title="sync-drive" src="https://raw.githubusercontent.com/alefemoreira/sync-drive/master/.github/logo-readme.png" width="250px"/>
 </h1>
 
 <!--<h2 align="center">API</h2>-->
@@ -32,7 +32,7 @@
 </p>
 
 <p>
-   <img alt="Frontend" src="./.github/sync-drive.png" width="100%"/>
+   <img alt="Frontend" src="https://raw.githubusercontent.com/alefemoreira/sync-drive/master/.github/sync-drive.png" width="100%"/>
 </p>
 
 ## Technologies
