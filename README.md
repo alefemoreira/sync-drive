@@ -20,6 +20,8 @@
   <a href="https://github.com/alefemoreira/sync-drive/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/alefemoreira/sync-drive?color=blue">
   </a>
+  
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alefemoreira/sync-drive?color=blue">
 
   <img alt="License" src="https://img.shields.io/badge/license-GPL3.0-brightgreen?color=blue">
 </p>
@@ -28,6 +30,7 @@
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contributors">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
 
@@ -48,6 +51,15 @@ A linux synchronizer for Google Drive ![Google Drive logo](/.github/google-drive
 ## Layout
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/3drFiNIOGx61Mt2s9qjX7l/Sync-Drive?node-id=2%3A0). Lembrando que você irá precisar ter uma conta no [Figma](https://www.figma.com/).
+
+## Contributors
+
+<a href="https://github.com/alefemoreira" >
+  <p align="center">
+    <img align="center" alt="Alefe Moreira Profile" src="https://avatars1.githubusercontent.com/u/43935776?s=460&u=61f06e620d752d959d8148484cf72480e95b3399&v=4" width="80px" />
+    <p align="center">alefemoreira</>
+  </p>
+</a>
 
 ## License
 
