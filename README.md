@@ -1,5 +1,3 @@
-<br/>
-
 <h1 align="center">
   <img alt="Sync Drive" title="sync-drive" src="https://raw.githubusercontent.com/alefemoreira/sync-drive/master/.github/logo-readme.png" width="250px"/>
 </h1>
@@ -56,8 +54,15 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 <a href="https://github.com/alefemoreira" >
   <p align="center">
-    <img align="center" alt="Alefe Moreira Profile" src="https://avatars1.githubusercontent.com/u/43935776?s=460&u=61f06e620d752d959d8148484cf72480e95b3399&v=4" width="80px" />
+    <img align="center" alt="Álefe Moreira Profile" src="https://avatars1.githubusercontent.com/u/43935776?s=460&u=61f06e620d752d959d8148484cf72480e95b3399&v=4" width="80px" />
     <p align="center">alefemoreira</>
+  </p>
+</a>
+
+<a href="https://github.com/Weverton-vitor" >
+  <p align="center">
+    <img align="center" alt="Weverton Vitor Profile" src="https://avatars0.githubusercontent.com/u/46731120?s=400&v=4" width="80px" />
+    <p align="center">Weverton-vitor</>
   </p>
 </a>
 
