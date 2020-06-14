@@ -1,0 +1,166 @@
+#page-choose-folder {
+  width: 100%;
+  max-width: 880px;
+
+  margin: 0 auto;
+}
+
+#page-choose-folder header {
+  margin-top: 48px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#page-choose-folder form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* width: 720px; */
+  width: 100%;
+  margin: auto;
+  padding: 0;
+}
+
+#page-choose-folder form .field {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+#page-choose-folder form .field input {
+  width: 80%;
+  height: 100%;
+  padding-left: 10px;
+  background-color: #fff;
+  border-color: #282a36 transparent #282a36 #282a36;
+  border-width: 1px 0 1px 1px;
+  border-radius: 5px 0 0 5px;
+  font-family: Ubuntu, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #44475a;
+}
+
+#page-choose-folder form .field button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  width: 20%;
+  height: 100%;
+
+  background-color: #f8f8f2;
+  font-family: Ubuntu, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #282a36;
+
+  border: solid;
+  border-width: 1px;
+  border-color: #282a36;
+  border-radius: 0 5px 5px 0;
+}
+
+#page-choose-folder form .field button svg {
+  margin-right: 5px;
+}
+
+#page-choose-folder form .buttons {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#page-choose-folder form .buttons a,
+#page-choose-folder form .buttons button {
+  width: 45%;
+  height: 60px;
+}
+
+#page-choose-folder form .buttons a:hover,
+#page-choose-folder form .buttons button:hover {
+  cursor: pointer;
+}
+
+#page-choose-folder form .buttons a {
+  margin-right: 10%;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  border: solid 1.2px;
+  border-color: #282a36;
+  border-radius: 5px;
+
+  background-color: transparent;
+  color: #282a36;
+  font-family: Ubuntu, Arial, Helvetica, sans-serif;
+  font-size: 24px;
+
+  text-decoration: none;
+}
+
+#page-choose-folder form .buttons a svg {
+  transition: 500ms;
+}
+
+#page-choose-folder form .buttons a:active {
+  background-color: #282a36;
+  color: #f8f8f2;
+}
+
+#page-choose-folder form .buttons a:active svg {
+  stroke: #f8f8f2;
+  fill: #f8f8f2;
+}
+
+#page-choose-folder form .buttons a:hover svg {
+  transform: scale(1.2);
+  transition: 500ms;
+}
+
+#page-choose-folder form .buttons button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #282a36;
+  border-color: #282a36;
+  border-radius: 5px;
+  font-family: Ubuntu, Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  color: #f8f8f2;
+}
+
+#page-choose-folder form .buttons button svg {
+  transition: 500ms;
+}
+
+#page-choose-folder form .buttons button:active {
+  color: #282a36;
+  background-color: #f8f8f2;
+}
+
+#page-choose-folder form .buttons button:active svg {
+  stroke: #282a36;
+  fill: #282a36;
+}
+
+#page-choose-folder form .buttons button:hover svg {
+  transform: rotate(-60deg);
+  transition: 500ms;
+}
+
+#page-choose-folder form .buttons a svg,
+#page-choose-folder form .buttons button svg {
+  margin-right: 8px;
+}

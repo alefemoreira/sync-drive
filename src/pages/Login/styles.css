@@ -5,15 +5,15 @@
   margin-right: auto;
 }
 
-.content {
+#page-login .content {
   flex: 1;
+  flex-direction: column;
 }
 
 #page-login .content form {
   display: flex;
   flex-direction: column;
   width: 720px;
-  /* flex: auto; */
   margin: auto;
   padding: 0;
 }
@@ -22,9 +22,7 @@
   background-color: #fff;
   display: flex;
   align-items: center;
-  /* flex: 1; */
   height: 60px;
-  /* margin-bottom: 30px; */
   margin: 0 0 30px 0;
   padding: 0;
   border: 0;
@@ -69,6 +67,22 @@
   font-size: 35px;
   line-height: 46px;
 }
+
+#page-login .content form button p {
+  transition: 500ms;
+}
+
+#page-login .content form button:hover p {
+  cursor: pointer;
+  transform: scale(1.05);
+  transition: 500ms;
+}
+
+#page-login .content form button:active {
+  background-color: #f8f8f2;
+  color: #282a36;
+}
+
 body {
   background-color: #f8f8f2;
 }

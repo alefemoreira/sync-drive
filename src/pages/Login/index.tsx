@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { MdAccountCircle, MdVpnKey } from "react-icons/md";
 
 import "./styles.css";
@@ -43,7 +44,11 @@ const Login = () => {
               </div>
             </div>
           </fieldset>
-          <button type="submit">Entrar</button>
+          <Link to="/choose-folder">
+            <button type="submit">
+              <p>Entrar</p>
+            </button>
+          </Link>
         </form>
       </div>
     </div>
