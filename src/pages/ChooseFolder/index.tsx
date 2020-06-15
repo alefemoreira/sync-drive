@@ -1,14 +1,16 @@
-import React from "react";
-import { Link /*useHistory*/ } from "react-router-dom";
+import React, { FormEvent } from "react";
+import { Link, useHistory } from "react-router-dom";
 import { MdFolderOpen, MdArrowBack, MdSync } from "react-icons/md";
 
 import "./styles.css";
 
 const ChooseFolder = () => {
-  // const history = useHistory();
+  const history = useHistory();
 
-  function handleSyncButton() {
+  function handleSubmit(event: FormEvent) {
+    event.preventDefault();
     console.log("HELLO");
+    history.push("/syncing");
   }
 
   return (
@@ -21,7 +23,7 @@ const ChooseFolder = () => {
         />
       </header>
 
-      <form>
+      <form onSubmit={handleSubmit}>
         <div className="field">
           <input name="path" id="name" type="text" placeholder="Path" />
           <button type="button">
@@ -34,7 +36,7 @@ const ChooseFolder = () => {
             <MdArrowBack size={24} color="#282a36" />
             Voltar
           </Link>
-          <button type="submit" onClick={handleSyncButton}>
+          <button type="submit">
             <MdSync size={24} color="#f8f8f2" />
             Syncronizar
           </button>
