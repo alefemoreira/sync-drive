@@ -40,7 +40,6 @@
 
 - [Electron](https://www.electronjs.org/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org/)
 
 ## Project
