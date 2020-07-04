@@ -4,6 +4,12 @@
   "license": "gplv3",
   "private": true,
   "main": "public/electron.js",
+  "husky": {
+    "hooks": {
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,6 +20,8 @@
     "@types/react-dom": "^16.9.0",
     "@types/uuid": "^8.0.0",
     "electron-is-dev": "^1.2.0",
+    "electron-oauth-helper": "^5.0.3",
+    "firebase": "^7.15.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icons": "^3.10.0",
@@ -34,6 +42,11 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -51,7 +64,12 @@
     "concurrently": "^5.2.0",
     "electron": "^9.0.3",
     "electron-builder": "^22.7.0",
-    "wait-on": "^5.0.1"
+    "wait-on": "^5.0.1",
+    "@commitlint/cli": "^8.3.4",
+    "@commitlint/config-conventional": "^8.3.4",
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "3.0.2",
+    "husky": "^3.1.0"
   },
   "build": {
     "appId": "com.example.electron-cra",
