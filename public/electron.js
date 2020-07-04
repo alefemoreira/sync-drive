@@ -1,9 +1,10 @@
 const electron = require("electron");
 const app = electron.app;
 const BrowserWindow = electron.BrowserWindow;
+// const OAuth2Provider = require("electron-oauth-helper/oauth2");
 
 const path = require("path");
-const url = require("url");
+// const url = require("url");
 const isDev = require("electron-is-dev");
 
 let mainWindow;
